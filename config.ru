@@ -1,9 +1,5 @@
 # config.ru
 
-# Serve static files under a `public` directory:
-# - `/` will try to serve your `public/index.html` file
-# - `/foo` will try to serve `public/foo` or `public/foo.html` in this order
-
 # Standalone version of Ryan Tomayko's TryStatic, originally part of Rack-Contrib gem.
 # https://github.com/rack/rack-contrib/blob/master/lib/rack/contrib/try_static.rb
 module Rack
